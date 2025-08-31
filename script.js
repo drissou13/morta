@@ -1,6 +1,6 @@
 // Liste des fichiers audio (nom des fichiers doit correspondre à data-sound)
 const sounds = {
-    sound1: 'coucou.mp3',
+    sound1: 'coucou wav',
     sound2:'triple-monstrewav.wav',
     sound3: 'je-suis-fatigue-les-brozer-made-with-Voicemod.mp3'
 };
